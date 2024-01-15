@@ -55,7 +55,7 @@
 </head>
 <body>
     <header>
-        <img src="branko.jpg" alt="Branko">
+        <img src="img/branko.jpg" alt="Branko">
         <h1>Lave, ti to mozes</h1>
     </header>
 
